@@ -43,7 +43,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -52,7 +52,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -78,7 +78,7 @@ theme_config:
   menu:
     Home: /
     About: /about
-  footer_about: "Hosted at <a href=\"http://www.pascalpdx.com\">PASCAL: Portland's 501(c)(3) Hackerspace</a>"
+  footer_about: "A random group of cultists located in Portland<br/>Hosted by <a href=\"http://www.pascalpdx.com\">PASCAL: Portland's 501(c)(3) Hackerspace</a>"
   footer_copyright: "Copyright 2018 Qult of the Quantum Qow. All right reserved"
   fa_logo: fa-cube
 
@@ -87,4 +87,3 @@ theme_config:
 deploy:
   type: git
   repo: git@github.com:quantumqow/quantumqow.github.io.git
-
