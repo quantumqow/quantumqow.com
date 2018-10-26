@@ -79,7 +79,7 @@ theme_config:
     Home: /
     About: /about
   footer_about: "A random group of cultists located in Portland<br/>Hosted by <a href=\"http://www.pascalpdx.com\">PASCAL: Portland's 501(c)(3) Hackerspace</a>"
-  footer_copyright: "Copyright 2018 Qult of the Quantum Qow. All right reserved"
+  footer_copyright: "Copyright 2018 Qult of the Quantum Qow. All rights reserved"
   fa_logo: fa-cube
 
 # Deployment
